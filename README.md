@@ -7,7 +7,7 @@ Icon File is dingtalk
 
 package-name:com.dingtalk.demo
 
-#钉钉校园版
+# 钉钉校园版
 钉钉校园版是一个为学生偷偷玩游戏打造的
 
 图标文件使用钉钉的图标
@@ -16,5 +16,5 @@ package-name:com.dingtalk.demo
 
 应用包名为:com.dingtalk.demo
 
-#Website 网站
+# Website 网站
 dingtalk.mabio.top
